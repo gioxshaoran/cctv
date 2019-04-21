@@ -15,75 +15,45 @@ https://cctvalih5c.v.myalicdn.com/live/cctv6_2/index.m3u8
 https://cctvalih5c.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:-1,CCTV8
 https://cctvalih5c.v.myalicdn.com/live/cctv8_2/index.m3u8
-#EXTINF:-1, Sport
-http://51.68.89.242:8000/live/11042019/11042019a/293.ts
-#EXTINF:-1, Sports News
-http://51.68.89.242:8000/live/11042019/11042019a/292.ts
-#EXTINF:-1,Sport 1 HD
-http://51.68.89.242:8000/live/11042019/11042019a/294.ts
-#EXTINF:-1,Sport 2 HD
-http://51.68.89.242:8000/live/11042019/11042019a/295.ts
-#EXTINF:-1,Sport 3 HD
-http://51.68.89.242:8000/live/11042019/11042019a/296.ts
-#EXTINF:-1,Sport 4 HD
-http://51.68.89.242:8000/live/11042019/11042019a/297.ts
-#EXTINF:-1,Sport 5 HD
-http://51.68.89.242:8000/live/11042019/11042019a/298.ts
-#EXTINF:-1,Sport 6 HD
-http://51.68.89.242:8000/live/11042019/11042019a/299.ts
-#EXTINF:-1,Sport 7 HD
-http://51.68.89.242:8000/live/11042019/11042019a/300.ts
-#EXTINF:-1,Sport 8 HD
-http://51.68.89.242:8000/live/11042019/11042019a/301.ts
-#EXTINF:-1,Sport 9 HD
-http://51.68.89.242:8000/live/11042019/11042019a/302.ts
-#EXTINF:-1,Sport 10 HD
-http://51.68.89.242:8000/live/11042019/11042019a/303.ts
-#EXTINF:-1, Sport SD1-
-http://51.68.89.242:8000/live/11042019/11042019a/327.ts
-#EXTINF:-1, Sport SD2-
-http://51.68.89.242:8000/live/11042019/11042019a/328.ts
-#EXTINF:-1, Sport SD3
-http://51.68.89.242:8000/live/11042019/11042019a/329.ts
-#EXTINF:-1, Sport SD4
-http://51.68.89.242:8000/live/11042019/11042019a/330.ts
-#EXTINF:-1, Sport SD5
-http://51.68.89.242:8000/live/11042019/11042019a/331.ts
-#EXTINF:-1, Sport SD6-
-http://51.68.89.242:8000/live/11042019/11042019a/332.ts
-#EXTINF:-1, Sport SD7
-http://51.68.89.242:8000/live/11042019/11042019a/333.ts
-#EXTINF:-1, Sport SD8
-http://51.68.89.242:8000/live/11042019/11042019a/334.ts
-#EXTINF:-1, Sport SD9
-http://51.68.89.242:8000/live/11042019/11042019a/335.ts
-#EXTINF:-1, Sport SD10
-http://51.68.89.242:8000/live/11042019/11042019a/336.ts
-#EXTINF:-1,AR: Q 1 HD-
-http://51.68.89.242:8000/live/11042019/11042019a/311.ts
-#EXTINF:-1,AR: Q 2 HD-
-http://51.68.89.242:8000/live/11042019/11042019a/312.ts
-#EXTINF:-1,AR: Q 3 HD
-http://51.68.89.242:8000/live/11042019/11042019a/313.ts
-#EXTINF:-1,AR: BoutQ 1 HD
-http://51.68.89.242:8000/live/11042019/11042019a/314.ts
-#EXTINF:-1,AR: BoutQ 2 HD
-http://51.68.89.242:8000/live/11042019/11042019a/315.ts
-#EXTINF:-1,AR: BoutQ 4 HD
-http://51.68.89.242:8000/live/11042019/11042019a/316.ts
-#EXTINF:-1,Sport 1 FR
-http://51.68.89.242:8000/live/11042019/11042019a/308.ts
-#EXTINF:-1,Sport 2 FR
-http://51.68.89.242:8000/live/11042019/11042019a/309.ts
-#EXTINF:-1,Sport 3 FR
-http://51.68.89.242:8000/live/11042019/11042019a/310.ts
-#EXTINF:-1,RMC Sport 1 HD
-http://51.68.89.242:8000/live/11042019/11042019a/304.ts
-#EXTINF:-1,RMC Sport 2 HD
-http://51.68.89.242:8000/live/11042019/11042019a/305.ts
-#EXTINF:-1,RMC Sport 3 HD
-http://51.68.89.242:8000/live/11042019/11042019a/306.ts
-#EXTINF:-1,RMC Sport 4 HD
-http://51.68.89.242:8000/live/11042019/11042019a/307.ts
-
-
+#EXTINF:-1,Hollywood Movies 2 SUB CHN/ENG
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1,Hollywood Movies 3 SUB CHN/ENG
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Hollywood Movies 4 SUB CHN/ENG
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1,Hollywood Movies 7 SUB CHN
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Hollywood Movies 8 SUB CHN/ENG
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Hollywood Movies 11 SUB CHN/ENG
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1,Movie 4 SUB CHN/ENG
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1,24/7 Friends SUB CHN/ENG
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1,HBO 2 ENG
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Planet Green
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://80.80.160.168/live/8/2500000/live.m3u8
+#EXTINF:-1,Discovery Science HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1,Panamericana TV
+https://stream-03.nyc.dailymotion.com/sec(GI0nxb_I3hjftaigIJtTi5hgVSlCNkQiOkE7G4FIvTU)/dm/3/x18w5up/s/live-2.m3u8
+#EXTINF:-1,TV Peru
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,ATV
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b882768.m3u8
+#EXTINF:-1,Cartoon Network
+https://raw.githubusercontent.com/gioxshaoran/cctv/master/cn.m3u8
